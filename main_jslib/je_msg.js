@@ -54,3 +54,4 @@ function MSG_SHOW(jmode,jtitle,jbody,fn1,fn2){
     document.getElementById('txtPrompt').focus();
   }
 }
+
